@@ -9,11 +9,11 @@
 <h2 align="left">About Me</h2>
 
 ###
-Meu nome é Layla Fernandes, tenho 16 anos, e atualmente sou estudante do Ensino Médio e Técnico em Informática no Brasil 🇧🇷. Tenho paixão por programação e estou explorando novas tecnologias para me tornar uma programadora profissional.
+Meu nome é Layla Fernandes, tenho 17 anos, e atualmente sou estudante do Ensino Médio e Técnico em Informática no Brasil 🇧🇷. Tenho paixão por programação e estou explorando novas tecnologias para me tornar uma programadora profissional.
 ###
 **Habilidades Técnicas:**
-- HTML e CSS (Aprendizado básico e primeiros projetos)
-- Iniciando estudos em C++
+- HTML, CSS, JavaScript e Python (Aprendizado básico e primeiros projetos)
+- Aperfeiçoando habilidades técnicas e buscando aprender novas coisas
 ###
 **Interesses:**
 - Programação e desenvolvimento de software
