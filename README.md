@@ -66,7 +66,7 @@ Meu nome é Layla Fernandes, tenho 17 anos, e atualmente sou estudante do Ensino
   <a href="https://www.linkedin.com/in/layla-fernandes-b488b5332/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="[https://www.instagram.com/](https://www.instagram.com/layla.fernandes16/?next=%2F)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="instagram logo"  />
   </a>
 </div>
